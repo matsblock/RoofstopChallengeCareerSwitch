@@ -1,6 +1,6 @@
 # RoofstopChallengeCareerSwitch
 
-git clone 
+git clone https://github.com/matsblock/RoofstopChallengeCareerSwitch.git
 
 npm install 
 
